@@ -1,0 +1,22 @@
+{
+	"projectName": "allwaytheme",
+	"licenseText": "proprietary",
+	"pkgs": [{
+		"name": "allwaytheme CSS",
+		"file": "allwaytheme.css",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.css",
+			"path": "themes/admin/jqadm/"
+		}]
+	}, {
+		"name": "allwaytheme JS",
+		"file": "allwaytheme.js",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.js",
+			"path": "themes/admin/jqadm/"
+		}]
+	}],
+	"resources" : []
+}
